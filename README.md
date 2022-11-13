@@ -20,9 +20,7 @@ Learn about the core functions of Jenkins, progressing from intermediate to more
 
 Michael Jenkins 
                             
-Lead Software Engineer, Systems Reliability Engineer
-
-                            
+Lead Software Engineer, Systems Reliability Engineer                      
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/michael-jenkins).
 
